@@ -24,7 +24,7 @@ import com.tencent.mm.sdk.openapi.WXAPIFactory;
  */
 public class WXEntryActivity extends Activity implements IWXAPIEventHandler {
 
-    private Button share_btn;//reg_btn将自己的app注册到微信的按钮，share_btn进行分享<br>
+    private Button share_btn;//re   g_btn将自己的app注册到微信的按钮，share_btn进行分享<br>
 
     private IWXAPI api;
 
